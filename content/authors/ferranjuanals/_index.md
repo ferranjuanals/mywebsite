@@ -19,15 +19,18 @@ education:
 email: ""
 
 interests:
-- Biostatistics
 - Data Analysis
+- Statistics
 - Machine Learning
+- Biology
+- Cycling
+- Mountaineering
 
 organizations:
 - name: ""
   url: ""
   
-role: Biostatistician
+role: Data Analyst - Biostatistician
 
 social:
 - icon: envelope
@@ -52,6 +55,4 @@ user_groups:
 # - Visitors
 ---
 
-As a data analyst, I have always been a firm believer that we have progressed into an era where the importance of data-driven decisions give businesses the competitive advantage. The wonders of artificial intelligence, machine learning and deep learning in solving business problems and improving the lives of consumers have always been a strong interest of mine.
-
-As much as I love getting connected with the latest trend in AI and data science, I also love to disconnect from technology from time to time and appreciate the natural beauty our amazing Earth has to offer!
+Studying biology has endowed me with a critical and analytical thinking that allows me to face problems in an organized and accurate manner. After a brief experience in the field of reproductive medicine, I studied a Master’s degree in Biostatistics and Bioinformatics to apply all my knowledge to real life situations. I worked as a Data Analyst at Health Engineering. Now, I am looking for new opportunities. 

@@ -18,19 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Biostatiscian"
+  title = "Data Analyst"
   company = "Health Engineering"
   company_url = ""
   location = ""
   date_start = "2019-02-15"
   date_end = "2019-12-31"
   description = """
-  Responsibilities include:
+  Exploration, statistical analysis and interpretation of clinical data within the FractalMed project.
+
+  Responsibilities include: 
   
   * Analysing
   * Modelling
   * Deploying
   """
+
+[[experience]]
+  title = "Biostatistician"
+  company = "Vall d'Hebron Institute of Research (VHIR)"
+  company_url = "http://en.vhir.org/"
+  location = "Barcelona"
+  date_start = "2018-03-01"
+  date_end = "2018-06-31"
+  description = """Exploration and analysis of clinical data within the VHIR's Statistical and Bioinformatics Unit (UEB)."""
+
+  [[experience]]
+  title = "Embryologist"
+  company = "Instituto Bernabeu"
+  company_url = "https://www.institutobernabeu.com/"
+  location = "Alacant"
+  date_start = "2013-03-15"
+  date_end = "2013-06-15"
+  description = """Fertility laboratory: in vitro fertilization, embryo culture and embryo transfer."""
 
 # [[experience]]
 #   title = "Professor"
