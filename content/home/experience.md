@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = "http://en.vhir.org/"
   location = "Barcelona"
   date_start = "2018-03-01"
-  date_end = "2018-06-31"
+  date_end = "2018-06-30"
   description = """Exploration and analysis of clinical data within the VHIR's Statistical and Bioinformatics Unit (UEB)."""
 
   [[experience]]
