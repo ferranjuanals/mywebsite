@@ -35,7 +35,7 @@ role: Data Analyst - Biostatistician
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ferranjuanals@gmail.com"
+  link: https://ferranjuanals.netlify.app/#contact
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ferran-juanals-05618394
