@@ -5,17 +5,10 @@ authors:
 bio:
 
 education:
-  courses:
     
 email: ""
 
-interests:
-- Data Analysis
-- Statistics
-- Machine Learning
-- Biology
-- Cycling
-- Mountaineering
+interests: 
 
 organizations:
 - name: ""
@@ -39,11 +32,8 @@ social:
   
 superuser: true
 
-title: Blog personal
+title: Ferran Juanals
 
 user_groups:
-# - Researchers
-# - Visitors
 ---
 
-# Studying biology has endowed me with a critical and analytical thinking that allows me to face problems in an organized and accurate manner. After a brief experience in the field of reproductive medicine, I studied a Master’s degree in Biostatistics and Bioinformatics to apply all my knowledge to real life situations. I worked as a Data Analyst at Health Engineering. Now, I am looking for new opportunities. 

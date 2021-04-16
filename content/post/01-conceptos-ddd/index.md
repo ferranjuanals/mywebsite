@@ -2,10 +2,10 @@
 authors:
 - blogferran
 date: "2021-04-16"
-diagram: true
+diagram: false
 tags:
-- DDD
-title: Descubriendo conceptos nuevos
+- Domain-Driven Design
+title: Descubriendo nuevos conceptos
 ---
 
 Poco a poco, a partir de la revisión del código del proyecto Huella Positiva y de buscar información, estoy descubriendo algunos conceptos del domain-driven design (DDD). Escribo “algunos” no porque conozca ya bastantes, sino al contrario. Me cuesta entender la idea del diseño DDD. Es por eso que intento centrarme en identificar partes del código y entender su funcionamiento para poco a poco intentar conocer mejor la idea general del DDD. 
