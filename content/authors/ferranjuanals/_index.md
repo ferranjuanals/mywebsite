@@ -46,7 +46,7 @@ social:
   icon_pack: fab
   link: https://www.strava.com/athletes/fjuanalsfigueras
   
-superuser: true
+superuser: false
 
 title: Ferran Juanals
 
