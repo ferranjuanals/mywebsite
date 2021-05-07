@@ -18,6 +18,7 @@ La especificación OpenAPI es un formato de descripción de API para servicios w
 
 Una de las grandes ventajas de las aplicaciones basadas en esta especificación es que a partir de ellas se puede generar automáticamente tanto documentación interactiva como client SDKs. 
 
+![png](./swagger-logo.png)
 
 Con la herramienta open-source Swagger Codegen es posible generar código cliente para consumir una REST API de forma muy sencilla. Para un proyecto maven (y por extensión Spring Boot) basta con añadir la dependencia  y el plugin de Swagger Codegen al archivo pom.xml y copiar el archivo de descripción de la API en la carpeta “/resources” del proyecto.
 
