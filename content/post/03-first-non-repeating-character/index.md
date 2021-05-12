@@ -6,7 +6,6 @@ diagram: false
 tags:
 - Katas
 title: Kata First Non-Repeating Character
-subtitle: [Enlace al repositorio](https://github.com/ferranjuanals/katas-formacion/tree/firstNonRepeatingCharacter-kata/firstNonRepeatingCharacter)
 ---
 
 Esta kata consiste en crear una función llamada firstNonRepeatingLetter que retorne el primer carácter no repetido de una cadena. Como dificultad añadida la función debe ser case insensitive, es decir, no se diferenciará entre minúsculas y mayúsculas a la hora de comparar pero la función debe devolver el carácter inicial.
@@ -34,3 +33,5 @@ Una vez validados los test busqué cómo podía refactorizar la función y lo ú
 ![png](./refactor.png)
 
 Todavía me falta mucha práctica, seguiré practicando.
+
+Enlace al repositorio de [GitHub](https://github.com/ferranjuanals/katas-formacion/tree/firstNonRepeatingCharacter-kata/firstNonRepeatingCharacter)
